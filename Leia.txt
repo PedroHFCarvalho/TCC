@@ -1,0 +1,9 @@
+0 - Criei o BD no Access porque e mais facil de geral usar.
+
+1 - entao antes de fazer qualquer coisa voce temq linkar o banco com o visual, vai em Server Explorer e faça a conexao com o BD
+
+2 - depois vc temq referenciar o Banco dentro do Codigo, Dentro da pasta Dados vai em ctlConexao vai ter uma string de conexão, pra conseguir a string do seu pc vai em Server Explorer aperte com o botão direito no BD em vai em propriedades, agora no lado direito inferior vai ter um campo com a string de conexao só substituir a ja existente no codigo.
+
+3 -se voce fez tudo certo o primeiro login é 
+Login: admin
+senha admin
