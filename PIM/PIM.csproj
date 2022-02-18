@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FEDA40DF-7AEE-4D0F-B604-E0DC00A5B6A8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PIM</RootNamespace>
+    <AssemblyName>PIM</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="UI\Cliente\AddContrato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Cliente\AddContrato.Designer.cs">
+      <DependentUpon>AddContrato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Cliente\AtualizarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Cliente\AtualizarCliente.Designer.cs">
+      <DependentUpon>AtualizarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Cliente\IncluirCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Cliente\IncluirCliente.Designer.cs">
+      <DependentUpon>IncluirCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Cliente\InicioCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Cliente\InicioCliente.Designer.cs">
+      <DependentUpon>InicioCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Destino\AtualizarDestino.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Destino\AtualizarDestino.Designer.cs">
+      <DependentUpon>AtualizarDestino.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Destino\InicioDestino.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Destino\InicioDestino.Designer.cs">
+      <DependentUpon>InicioDestino.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Gerente\Contratos\AddVeiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Gerente\Contratos\AddVeiculo.Designer.cs">
+      <DependentUpon>AddVeiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Gerente\Contratos\AtualizarContrato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Gerente\Contratos\AtualizarContrato.Designer.cs">
+      <DependentUpon>AtualizarContrato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Gerente\Contratos\IncluirContrato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Gerente\Contratos\IncluirContrato.Designer.cs">
+      <DependentUpon>IncluirContrato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Gerente\Funcionario\AtualizarFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Gerente\Funcionario\AtualizarFuncionario.Designer.cs">
+      <DependentUpon>AtualizarFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Gerente\Funcionario\IncluirFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Gerente\Funcionario\IncluirFuncionario.Designer.cs">
+      <DependentUpon>IncluirFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Gerente\InicioContratos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Gerente\InicioContratos.Designer.cs">
+      <DependentUpon>InicioContratos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Gerente\InicioGerente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Gerente\InicioGerente.Designer.cs">
+      <DependentUpon>InicioGerente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\Manut\AtulizarManut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Manut\AtulizarManut.Designer.cs">
+      <DependentUpon>AtulizarManut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Manut\InicioManut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Manut\InicioManut.Designer.cs">
+      <DependentUpon>InicioManut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\MenuPrincipal.Designer.cs">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Motorista\AddMotoristaVeiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Motorista\AddMotoristaVeiculo.Designer.cs">
+      <DependentUpon>AddMotoristaVeiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Motorista\AtualizarMotorista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Motorista\AtualizarMotorista.Designer.cs">
+      <DependentUpon>AtualizarMotorista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Motorista\IncluirMotorista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Motorista\IncluirMotorista.Designer.cs">
+      <DependentUpon>IncluirMotorista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Motorista\InicioMotorista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Motorista\InicioMotorista.Designer.cs">
+      <DependentUpon>InicioMotorista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Reserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Reserva.Designer.cs">
+      <DependentUpon>Reserva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\TabelasInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\TabelasInicio.Designer.cs">
+      <DependentUpon>TabelasInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Veiculos\AdicionarDestino.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Veiculos\AdicionarDestino.Designer.cs">
+      <DependentUpon>AdicionarDestino.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Veiculos\AdicionarManut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Veiculos\AdicionarManut.Designer.cs">
+      <DependentUpon>AdicionarManut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Veiculos\AtualizarVeiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Veiculos\AtualizarVeiculo.Designer.cs">
+      <DependentUpon>AtualizarVeiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Veiculos\IncluirVeiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Veiculos\IncluirVeiculo.Designer.cs">
+      <DependentUpon>IncluirVeiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Veiculos\InicioVeiculos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Veiculos\InicioVeiculos.Designer.cs">
+      <DependentUpon>InicioVeiculos.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UI\Cliente\AddContrato.resx">
+      <DependentUpon>AddContrato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Cliente\AtualizarCliente.resx">
+      <DependentUpon>AtualizarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Cliente\IncluirCliente.resx">
+      <DependentUpon>IncluirCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Cliente\InicioCliente.resx">
+      <DependentUpon>InicioCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Destino\AtualizarDestino.resx">
+      <DependentUpon>AtualizarDestino.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Destino\InicioDestino.resx">
+      <DependentUpon>InicioDestino.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Gerente\Contratos\AddVeiculo.resx">
+      <DependentUpon>AddVeiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Gerente\Contratos\AtualizarContrato.resx">
+      <DependentUpon>AtualizarContrato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Gerente\Contratos\IncluirContrato.resx">
+      <DependentUpon>IncluirContrato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Gerente\Funcionario\AtualizarFuncionario.resx">
+      <DependentUpon>AtualizarFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Gerente\Funcionario\IncluirFuncionario.resx">
+      <DependentUpon>IncluirFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Gerente\InicioContratos.resx">
+      <DependentUpon>InicioContratos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Gerente\InicioGerente.resx">
+      <DependentUpon>InicioGerente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Manut\AtulizarManut.resx">
+      <DependentUpon>AtulizarManut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Manut\InicioManut.resx">
+      <DependentUpon>InicioManut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Motorista\AddMotoristaVeiculo.resx">
+      <DependentUpon>AddMotoristaVeiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Motorista\AtualizarMotorista.resx">
+      <DependentUpon>AtualizarMotorista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Motorista\IncluirMotorista.resx">
+      <DependentUpon>IncluirMotorista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Motorista\InicioMotorista.resx">
+      <DependentUpon>InicioMotorista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Reserva.resx">
+      <DependentUpon>Reserva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\TabelasInicio.resx">
+      <DependentUpon>TabelasInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Veiculos\AdicionarDestino.resx">
+      <DependentUpon>AdicionarDestino.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Veiculos\AdicionarManut.resx">
+      <DependentUpon>AdicionarManut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Veiculos\AtualizarVeiculo.resx">
+      <DependentUpon>AtualizarVeiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Veiculos\IncluirVeiculo.resx">
+      <DependentUpon>IncluirVeiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Veiculos\InicioVeiculos.resx">
+      <DependentUpon>InicioVeiculos.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PimDLL\PimDLL.csproj">
+      <Project>{4da2e246-376f-4d1b-a890-03db83267a0c}</Project>
+      <Name>PimDLL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logocompleto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\degrade.png" />
+    <Content Include="Resources\icon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

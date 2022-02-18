@@ -1,0 +1,57 @@
+C:\Users\PC_Gamer\Desktop\PIM Access 2.0\PIM\PimDLL\bin\Debug\PimDLL.dll
+C:\Users\PC_Gamer\Desktop\PIM Access 2.0\PIM\PimDLL\bin\Debug\PimDLL.pdb
+C:\Users\PC_Gamer\Desktop\PIM Access 2.0\PIM\PimDLL\obj\Debug\PimDLL.csprojResolveAssemblyReference.cache
+C:\Users\PC_Gamer\Desktop\PIM Access 2.0\PIM\PimDLL\obj\Debug\PimDLL.dll
+C:\Users\PC_Gamer\Desktop\PIM Access 2.0\PIM\PimDLL\obj\Debug\PimDLL.pdb
+C:\Users\PC_Gamer\Desktop\PIM Access 3.0\PIM\PimDLL\bin\Debug\PimDLL.dll
+C:\Users\PC_Gamer\Desktop\PIM Access 3.0\PIM\PimDLL\bin\Debug\PimDLL.pdb
+C:\Users\PC_Gamer\Desktop\PIM Access 3.0\PIM\PimDLL\obj\Debug\PimDLL.csprojResolveAssemblyReference.cache
+C:\Users\PC_Gamer\Desktop\PIM Access 3.0\PIM\PimDLL\obj\Debug\PimDLL.dll
+C:\Users\PC_Gamer\Desktop\PIM Access 3.0\PIM\PimDLL\obj\Debug\PimDLL.pdb
+C:\Users\User\Desktop\PIM Access 3.5\PIM\PimDLL\bin\Debug\PimDLL.dll
+C:\Users\User\Desktop\PIM Access 3.5\PIM\PimDLL\bin\Debug\PimDLL.pdb
+C:\Users\User\Desktop\PIM Access 3.5\PIM\PimDLL\obj\Debug\PimDLL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\PIM Access 3.5\PIM\PimDLL\obj\Debug\PimDLL.dll
+C:\Users\User\Desktop\PIM Access 3.5\PIM\PimDLL\obj\Debug\PimDLL.pdb
+C:\Users\PC_Gamer\Desktop\PIM Access 3.6\PIM\PimDLL\bin\Debug\PimDLL.dll
+C:\Users\PC_Gamer\Desktop\PIM Access 3.6\PIM\PimDLL\bin\Debug\PimDLL.pdb
+C:\Users\PC_Gamer\Desktop\PIM Access 3.6\PIM\PimDLL\obj\Debug\PimDLL.csprojResolveAssemblyReference.cache
+C:\Users\PC_Gamer\Desktop\PIM Access 3.6\PIM\PimDLL\obj\Debug\PimDLL.dll
+C:\Users\PC_Gamer\Desktop\PIM Access 3.6\PIM\PimDLL\obj\Debug\PimDLL.pdb
+C:\Users\PC_Gamer\Desktop\PIM Access 3.7\PIM\PimDLL\bin\Debug\PimDLL.dll
+C:\Users\PC_Gamer\Desktop\PIM Access 3.7\PIM\PimDLL\bin\Debug\PimDLL.pdb
+C:\Users\PC_Gamer\Desktop\PIM Access 3.7\PIM\PimDLL\obj\Debug\PimDLL.csprojResolveAssemblyReference.cache
+C:\Users\PC_Gamer\Desktop\PIM Access 3.7\PIM\PimDLL\obj\Debug\PimDLL.dll
+C:\Users\PC_Gamer\Desktop\PIM Access 3.7\PIM\PimDLL\obj\Debug\PimDLL.pdb
+C:\Users\PC_Gamer\Desktop\PIM Access 3.8\PIM\PimDLL\bin\Debug\PimDLL.dll
+C:\Users\PC_Gamer\Desktop\PIM Access 3.8\PIM\PimDLL\bin\Debug\PimDLL.pdb
+C:\Users\PC_Gamer\Desktop\PIM Access 3.8\PIM\PimDLL\obj\Debug\PimDLL.csprojResolveAssemblyReference.cache
+C:\Users\PC_Gamer\Desktop\PIM Access 3.8\PIM\PimDLL\obj\Debug\PimDLL.dll
+C:\Users\PC_Gamer\Desktop\PIM Access 3.8\PIM\PimDLL\obj\Debug\PimDLL.pdb
+C:\Users\PC_Gamer\Desktop\PIM Access 3.9\PIM\PimDLL\obj\Debug\PimDLL.csprojResolveAssemblyReference.cache
+C:\Users\PC_Gamer\Desktop\PIM Access 3.9\PIM\PimDLL\obj\Debug\PimDLL.dll
+C:\Users\PC_Gamer\Desktop\PIM Access 3.9\PIM\PimDLL\obj\Debug\PimDLL.pdb
+C:\Users\PC_Gamer\Desktop\PIM Access 3.9\PIM\PimDLL\bin\Debug\PimDLL.dll
+C:\Users\PC_Gamer\Desktop\PIM Access 3.9\PIM\PimDLL\bin\Debug\PimDLL.pdb
+C:\Users\PC_Gamer\Desktop\PIM Access 4.0\PIM\PimDLL\bin\Debug\PimDLL.dll
+C:\Users\PC_Gamer\Desktop\PIM Access 4.0\PIM\PimDLL\bin\Debug\PimDLL.pdb
+C:\Users\PC_Gamer\Desktop\PIM Access 4.0\PIM\PimDLL\obj\Debug\PimDLL.dll
+C:\Users\PC_Gamer\Desktop\PIM Access 4.0\PIM\PimDLL\obj\Debug\PimDLL.pdb
+C:\Users\PC_Gamer\Desktop\PIM Access 4.0\PIM\PimDLL\obj\Debug\PimDLL.csprojAssemblyReference.cache
+C:\Users\PC_Gamer\Desktop\PIM Access 4.0\PIM\PimDLL\obj\Debug\PimDLL.csproj.CoreCompileInputs.cache
+C:\Users\M.Cortez\Desktop\Projeto PIM 2.0\PIM Access 4.0\PIM\PimDLL\bin\Debug\PimDLL.dll
+C:\Users\M.Cortez\Desktop\Projeto PIM 2.0\PIM Access 4.0\PIM\PimDLL\bin\Debug\PimDLL.pdb
+C:\Users\M.Cortez\Desktop\Projeto PIM 2.0\PIM Access 4.0\PIM\PimDLL\obj\Debug\PimDLL.csprojAssemblyReference.cache
+C:\Users\M.Cortez\Desktop\Projeto PIM 2.0\PIM Access 4.0\PIM\PimDLL\obj\Debug\PimDLL.csproj.CoreCompileInputs.cache
+C:\Users\M.Cortez\Desktop\Projeto PIM 2.0\PIM Access 4.0\PIM\PimDLL\obj\Debug\PimDLL.dll
+C:\Users\M.Cortez\Desktop\Projeto PIM 2.0\PIM Access 4.0\PIM\PimDLL\obj\Debug\PimDLL.pdb
+C:\Users\PC_Gamer\Desktop\Nova pasta\Projeto PIM 2.0\PIM Access 4.0\PIM\PimDLL\bin\Debug\PimDLL.dll
+C:\Users\PC_Gamer\Desktop\Nova pasta\Projeto PIM 2.0\PIM Access 4.0\PIM\PimDLL\bin\Debug\PimDLL.pdb
+C:\Users\PC_Gamer\Desktop\Nova pasta\Projeto PIM 2.0\PIM Access 4.0\PIM\PimDLL\obj\Debug\PimDLL.csprojAssemblyReference.cache
+C:\Users\PC_Gamer\Desktop\Nova pasta\Projeto PIM 2.0\PIM Access 4.0\PIM\PimDLL\obj\Debug\PimDLL.csproj.CoreCompileInputs.cache
+C:\Users\PC_Gamer\Desktop\Nova pasta\Projeto PIM 2.0\PIM Access 4.0\PIM\PimDLL\obj\Debug\PimDLL.dll
+C:\Users\PC_Gamer\Desktop\Nova pasta\Projeto PIM 2.0\PIM Access 4.0\PIM\PimDLL\obj\Debug\PimDLL.pdb
+C:\Users\Pedro\OneDrive\Variedades\PIM 3 Semestre\Versoes\Projeto PIM 2.8\PIM Access 4.0\PIM\PimDLL\obj\Debug\PimDLL.csprojAssemblyReference.cache
+C:\Users\Pedro\OneDrive\Variedades\PIM 3 Semestre\Versoes\Projeto PIM 2.8\PIM Access 4.0\PIM\PimDLL\obj\Debug\PimDLL.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\OneDrive\Variedades\PIM 3 Semestre\Versoes\Projeto PIM 2.8\PIM Access 4.0\PIM\PimDLL\obj\Debug\PimDLL.dll
+C:\Users\Pedro\OneDrive\Variedades\PIM 3 Semestre\Versoes\Projeto PIM 2.8\PIM Access 4.0\PIM\PimDLL\obj\Debug\PimDLL.pdb
